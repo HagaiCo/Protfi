@@ -1,0 +1,17 @@
+/Users/hagaicohen/RiderProjects/Protfi/Common/bin/Debug/net6.0/Common.deps.json
+/Users/hagaicohen/RiderProjects/Protfi/Common/bin/Debug/net6.0/Common.dll
+/Users/hagaicohen/RiderProjects/Protfi/Common/bin/Debug/net6.0/ref/Common.dll
+/Users/hagaicohen/RiderProjects/Protfi/Common/bin/Debug/net6.0/Common.pdb
+/Users/hagaicohen/RiderProjects/Protfi/Common/bin/Debug/net6.0/Autofac.dll
+/Users/hagaicohen/RiderProjects/Protfi/Common/bin/Debug/net6.0/Autofac.xml
+/Users/hagaicohen/RiderProjects/Protfi/Common/obj/Debug/net6.0/Common.csproj.AssemblyReference.cache
+/Users/hagaicohen/RiderProjects/Protfi/Common/obj/Debug/net6.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hagaicohen/RiderProjects/Protfi/Common/obj/Debug/net6.0/Common.AssemblyInfoInputs.cache
+/Users/hagaicohen/RiderProjects/Protfi/Common/obj/Debug/net6.0/Common.AssemblyInfo.cs
+/Users/hagaicohen/RiderProjects/Protfi/Common/obj/Debug/net6.0/Common.csproj.CoreCompileInputs.cache
+/Users/hagaicohen/RiderProjects/Protfi/Common/obj/Debug/net6.0/Common.csproj.CopyComplete
+/Users/hagaicohen/RiderProjects/Protfi/Common/obj/Debug/net6.0/Common.dll
+/Users/hagaicohen/RiderProjects/Protfi/Common/obj/Debug/net6.0/ref/Common.dll
+/Users/hagaicohen/RiderProjects/Protfi/Common/obj/Debug/net6.0/Common.pdb
+/Users/hagaicohen/RiderProjects/Protfi/Common/bin/Debug/net6.0/Common.runtimeconfig.json
+/Users/hagaicohen/RiderProjects/Protfi/Common/obj/Debug/net6.0/Common.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/bin/Debug/net6.0/Stock.service.deps.json
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/bin/Debug/net6.0/Stock.service.dll
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/bin/Debug/net6.0/ref/Stock.service.dll
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/bin/Debug/net6.0/Stock.service.pdb
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/obj/Debug/net6.0/Stock.service.csproj.AssemblyReference.cache
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/obj/Debug/net6.0/Stock.service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/obj/Debug/net6.0/Stock.service.AssemblyInfoInputs.cache
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/obj/Debug/net6.0/Stock.service.AssemblyInfo.cs
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/obj/Debug/net6.0/Stock.service.csproj.CoreCompileInputs.cache
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/obj/Debug/net6.0/Stock.service.csproj.CopyComplete
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/obj/Debug/net6.0/Stock.service.dll
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/obj/Debug/net6.0/ref/Stock.service.dll
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/obj/Debug/net6.0/Stock.service.pdb
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/bin/Debug/net6.0/Common.dll
+/Users/hagaicohen/RiderProjects/Protfi/Stock.service/bin/Debug/net6.0/Common.pdb
+/Users/hagaicohen/RiderProjects/Protfi/Stock.Service/bin/Debug/net6.0/Stock.Service.runtimeconfig.json
+/Users/hagaicohen/RiderProjects/Protfi/Stock.Service/obj/Debug/net6.0/Stock.Service.genruntimeconfig.cache
